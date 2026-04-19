@@ -438,5 +438,4 @@ sudo ./proxywatch.sh stop               # Stop proxy
 ./proxywatch.sh restore                 # Restore backup
 ```
 
-**Ready to deploy? See DEPLOYMENT_GUIDE.md** 🚀
 
