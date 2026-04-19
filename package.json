@@ -1,0 +1,15 @@
+{
+  "name": "proxywatch-web-terminal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web terminal UI for ProxyWatch",
+  "main": "server.js",
+  "scripts": {
+    "web": "node server.js",
+    "start": "node server.js",
+    "ui": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

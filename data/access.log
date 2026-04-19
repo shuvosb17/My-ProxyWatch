@@ -1,0 +1,10 @@
+1776362636 120 192.168.1.20 TCP_MISS 4521 GET http://facebook.com/ - DIRECT 200 text/html
+1776362642 88 192.168.1.21 TCP_MISS 3291 GET http://openai.com/ - DIRECT 200 text/html
+1776362646 104 192.168.1.20 TCP_HIT 1870 GET http://github.com/ - DIRECT 200 text/html
+1776362652 175 192.168.1.22 TCP_MISS 6512 GET http://youtube.com/ - DIRECT 302 text/html
+1776362659 92 192.168.1.23 TCP_MISS 2720 GET http://wikipedia.org/ - DIRECT 200 text/html
+1776362664 204 192.168.1.22 TCP_MISS 7213 GET http://facebook.com/docs - DIRECT 404 text/html
+1776362668 77 192.168.1.24 TCP_HIT 1540 GET http://github.com/features - DIRECT 200 text/html
+1776362675 111 192.168.1.21 TCP_MISS 3602 GET http://google.com/ - DIRECT 200 text/html
+1776362681 135 192.168.1.20 TCP_MISS 5000 GET http://facebook.com/login - DIRECT 403 text/html
+1776362687 95 192.168.1.25 TCP_MISS 4100 GET http://openai.com/research - DIRECT 200 text/html
